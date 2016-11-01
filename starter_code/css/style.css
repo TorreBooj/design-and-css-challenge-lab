@@ -50,8 +50,8 @@ body {
      font-size: 12px;
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
-     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
-      background-size: cover;
+/*     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+*/      background-size: cover;
 }
 
 
@@ -68,7 +68,12 @@ body {
 }
 
 header {
-
+     height: 600px;
+/*     width: 500px;
+*/     background-color: gray;
+     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+/*     background-size: cover;
+*/
 }
 
 footer {
@@ -79,6 +84,29 @@ footer {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+h1 {
+  font-weight: 900;
+  font-size: 24px;
+}
 
+h2 {
+  font-weight: 600;
+}
+
+button#getIt {
+  font-weight: 900;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+h2#benefits {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+
+
+
+"Benefits" - Semibold, 20px
 
 
