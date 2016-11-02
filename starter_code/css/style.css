@@ -46,11 +46,10 @@ Developer @GA in NYC
 /*******************************************/
 
 body {
-     color: #000;
      font-size: 12px;
      line-height: 1.4;
-     font-family: Helvetica, Arial, sans-serif;
-/*     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+/*     font-family: 'Open Sans', sans-serif;
+*//*     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
 */      background-size: cover;
 }
 
@@ -68,45 +67,176 @@ body {
 }
 
 header {
-     height: 600px;
-/*     width: 500px;
-*/     background-color: gray;
-     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
-/*     background-size: cover;
-*/
+  height: 400px;
+  width: 600px;
+  background-color: gray;
+  background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+  background-size: cover;
+  margin: 0 auto;
+  padding: 15px 60px 0 60px;
 }
 
 footer {
-
+  width: 600px;
+  background-color: #121212;
+  margin: 0 auto;
+  text-align: center;
+  padding: 25px;
 }
 
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
 
-h1 {
-  font-weight: 900;
+.headerRelaxr {
+}
+
+#headerRelaxr {
   font-size: 24px;
+  color: white;
 }
 
 h2 {
-  font-weight: 600;
+  color: white;
 }
 
-button#getIt {
-  font-weight: 900;
+.tagline {
+  width: 400px;
+  margin: 80px auto 40px;
+}
+
+#tagline {
+  font-size: 24px;
+}
+
+.benefits {
+  width: 600px;
+  height: 275px;
+  background-color: #f0efef;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.quote {
+  width: 600px;
+  height: 300px;
+  background: url(../images/testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
+  margin: 0 auto;
+}
+
+#getIt {
   font-size: 14px;
   border-radius: 5px;
+  background-color: #f9e42e;
+  border: none;
+  color: #033048;
+  padding: 5px auto;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 150px;
+  height: 30px;
+  margin: 0 165px;
 }
 
-h2#benefits {
-  font-weight: 600;
+#benefits {
   font-size: 20px;
+  color: #033048;
+  margin: 0 0 10px 0;
+}
+
+p {
+  font-size: 13px;
+  color: #606161;
+  margin: 0 0 10px 0;
+}
+
+ul {
+  margin: 0 0 0 50px;
+}
+
+li {
+  font-size: 13px;
+  list-style: disc;
+  color: #606161;
+}
+
+.quote {
+  padding: 30px 130px;
+  height: 200px;
+}
+
+#quote {
+  font-size: 18px;
+  color: white;
+  font-style: italic;
+  text-align: center;
+}
+
+.signUp {
+  background-color: #f9e42e;
+  width: 600px;
+  height: 60px;
+  margin: 0 auto;
+}
+
+#signUp {
+  font-size: 12px;
+  border-radius: 5px;
+  background-color: #033048;
+  border: none;
+  color: #ffffff;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 150px;
+  height: 30px;
+  margin: 15px 225px;
+}
+
+#copyright {
+  font-size: 9px;
+  color: white;
+}
+
+#footerRelaxr {
+  font-size: 24px;
+  color: #f9e42e;
+}
+
+#twitterLogo {
+  display: inline-block;
+  margin: 20px 10px 30px;
+}
+
+#fbLogo {
+  display: inline-block;
+  margin: 15px 10px;
+}
+
+img {
+  height: 20px;
+}
+
+.light {
+  font-weight: 100;
+}
+.semibold {
+  font-weight: 500;
+}
+.extrabold {
+  font-weight: 700;
+}
+
+.openSans {
+  font-family: 'Open Sans', sans-serif;
 }
 
 
 
 
-"Benefits" - Semibold, 20px
+
+
 
 
