@@ -48,8 +48,7 @@ Developer @GA in NYC
 body {
      font-size: 12px;
      line-height: 1.4;
-/*     font-family: 'Open Sans', sans-serif;
-*//*     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+/*     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
 */      background-size: cover;
 }
 
@@ -232,11 +231,4 @@ img {
 .openSans {
   font-family: 'Open Sans', sans-serif;
 }
-
-
-
-
-
-
-
 
