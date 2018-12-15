@@ -1,4 +1,4 @@
-#Styling with CSS
+# Styling with CSS
 
 
 <br>
@@ -6,7 +6,7 @@
 ---
 
 
-###Description
+### Description
 
 
 A hot, new Denver-based Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter_code/design_file.txt) for the site, along with the copy and assets - they're located in the repo. You need to take these files and turn it into a landing page:
@@ -21,7 +21,7 @@ A hot, new Denver-based Tech Startup, Relaxr, has approached you to help them de
 ---
 
 
-###Real-World Applications
+### Real-World Applications
 
 The scenario presented to you in this lab is very similar to the scenario you would encounter everyday working in a web agency - you’re handed a design file, often with little to no context, with only the knowledge that the client wants it to look ‘good’. This is actually a more technical comp than you should expect. Since the client doesn’t know what a div is or what semibold is in numeric font weight, YOU need to act as an advisor for them and pick the best tool for the job.
 
@@ -38,7 +38,7 @@ In completing this lab, you'll be performing these common daily dev tasks:
 ---
 
 
-###Technical Requirements
+### Technical Requirements
 
 To complete this lab, you'll need to:
 
@@ -55,7 +55,7 @@ To complete this lab, you'll need to:
 ---
 
 
-###Resources
+### Resources
 
 - Starter code can be found inside of the "starter_code" folder for this assignment.
 - [Box Model explanation from Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model)
@@ -64,14 +64,3 @@ To complete this lab, you'll need to:
 - [What is a CSS Reset?](http://www.cssreset.com/what-is-a-css-reset/)
 - Relaxr's [design file](starter_code/design_file)
 
-
-
-
-
-<br>
-
----
-
-###Evaluation / Submission
-
-Students will create a new repository on GitHub called "homework-landingpage" and push their code to it when they are ready to submit. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). The maximum possible score on this assignment is 12/12.
