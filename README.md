@@ -1,9 +1,6 @@
 # Styling with CSS
 
 
-<br>
-
-
 ### Description
 
 
